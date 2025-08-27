@@ -1,0 +1,28 @@
+h1{
+	background-color: dodgerblue;
+	text-align: center;
+}
+
+h2{
+	background-color: lightblue;
+	text-align: center;
+}
+
+p{
+	color: navy;
+	font-size: 20px;
+	text-align: center;
+}
+
+p::first-line {
+  color: #ff0000;
+  font-variant: small-caps;
+}
+
+#hoi4{
+	margin-left: 600px;
+}
+
+#scpsl{
+	margin-left: 300px;
+}
