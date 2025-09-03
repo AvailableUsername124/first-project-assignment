@@ -14,6 +14,14 @@ p{
 	text-align: center;
 }
 
+.centered {
+	text-align: center;
+}
+i{
+	color: navy;
+	font-size: 20px;
+}
+
 p::first-line {
   color: #ff0000;
   font-variant: small-caps;
