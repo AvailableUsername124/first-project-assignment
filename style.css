@@ -20,9 +20,11 @@ p::first-line {
 }
 
 #hoi4{
-	margin-left: 600px;
+	display: block;
+	margin: auto;
 }
 
 #scpsl{
-	margin-left: 300px;
+	display: block;
+	margin: auto;
 }
